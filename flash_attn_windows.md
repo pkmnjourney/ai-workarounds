@@ -2,7 +2,7 @@
 Go to `transformer.py` located in your conda env under `\Lib\site-packages\sam2\modeling\sam`
 and change every instance of the following from:
 
-` # OLD_GPU, USE_FLASH_ATTN, MATH_KERNEL_ON = get_sdpa_settings()`
+`OLD_GPU, USE_FLASH_ATTN, MATH_KERNEL_ON = get_sdpa_settings()`
 
 to:
 
