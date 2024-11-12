@@ -6,9 +6,9 @@ and change every instance of the following from:
 
 to:
 
-```USE_FLASH_ATTN = False
+`USE_FLASH_ATTN = False
 MATH_KERNEL_ON = True
-OLD_GPU = True```
+OLD_GPU = True`
 
 and from:
 
